@@ -19,8 +19,8 @@ The model is compiled using the Adam optimizer with a learning rate of 0.001. Th
 
 ## Performance
 The model achieved a test accuracy of 96.02%, with detailed performance metrics including precision, recall, F1-score for both classes:
-- Class 0 (Not Satisfied): Precision - 0.95, Recall - 0.98, F1 - 0.96
-- Class 1 (Satisfied): Precision - 0.97, Recall - 0.94, F1 - 0.95
+- Class 0 (Not Satisfied): Precision - 0.95, Recall - 0.98, F1 - 0.97
+- Class 1 (Satisfied): Precision - 0.97, Recall - 0.93, F1 - 0.95
 
 ## Files and Folders
 - `data/`: Folder containing the training and test datasets.
