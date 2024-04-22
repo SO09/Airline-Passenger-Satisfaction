@@ -24,19 +24,8 @@ The model achieved a test accuracy of 96.02%, with detailed performance metrics 
 
 ## Files and Folders
 - `data/`: Folder containing the training and test datasets.
-- `models/`: Saved models and weights.
-- `src/`: Source code including data preprocessing and model scripts.
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and model training.
 
-## Usage
-To run the model training script:
-```bash
-python train.py
-```
-To evaluate the model on the test dataset:
-```bash
-python evaluate.py
-```
 
 ## Requirements
 - Python 3.x
