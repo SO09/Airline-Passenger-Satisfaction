@@ -24,7 +24,7 @@ def train_model(X_train, y_train, X_val, y_val):
     """Train the model."""
     model = build_model(X_train.shape[1])
     history = model.fit(X_train, y_train, epochs=25, batch_size=64, validation_data=(X_val, y_val), verbose=2)
-    model.save('models/mon_modele.h5')
+    model.save('models/model.h5')
     return model, history
 
 
