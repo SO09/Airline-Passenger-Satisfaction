@@ -15,15 +15,16 @@ The model achieved a test accuracy of 96.02%, with detailed performance metrics 
 ## Files and Folders
 - `data/`: Folder containing the training and test datasets.
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and model training.
+- `src/`: Folder containing source code files for the project.
 
 ## Requirements
-- Python 3.x
-- TensorFlow 2.x
+- Python 
+- TensorFlow 
 - Pandas
 - Numpy
 - Matplotlib
 - Seaborn
+- scikit-learn
 
-## Contributors
-- Sofiane EL FARTASS
+
 
